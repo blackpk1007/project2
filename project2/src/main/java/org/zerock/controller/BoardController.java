@@ -5,5 +5,5 @@ public class BoardController {
 	 String b = "test1";
 	 String c = "test2";
 	 String d = "test3";
-	 String f = "test4";
+	 String f = "test4"; 
 }
