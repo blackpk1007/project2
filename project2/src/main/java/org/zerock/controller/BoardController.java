@@ -2,6 +2,6 @@ package org.zerock.controller;
 
 public class BoardController {
 	
-	help.........................
+	설정 옮겨오기
 }
  
