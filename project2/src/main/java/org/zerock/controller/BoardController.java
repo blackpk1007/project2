@@ -1,7 +1,7 @@
 package org.zerock.controller;
 
 public class BoardController {
-	 
-	담주에 해봅시다..
+	
+	나의 일일 일과 만들기..! 
 }
  
