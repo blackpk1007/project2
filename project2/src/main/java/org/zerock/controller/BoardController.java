@@ -2,6 +2,6 @@ package org.zerock.controller;
 
 public class BoardController {
 	
-	시작..
+	진짜 시작 db 설정
 }
  
